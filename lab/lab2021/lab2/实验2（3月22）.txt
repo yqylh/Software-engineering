@@ -1,0 +1,55 @@
+﻿实验二 持续沟通修订FAR、CASE调研、软件开发计划(SDP)
+
+实验目的：
+（1） 持续项目沟通、调查，修订可行性分析报告FAR。
+（2） 调研CASE软件工具，并会使用。
+（3） 学习、制定出针对项目的软件开发计划(SDP)（初稿）
+
+要求：
+1. 每组组长（可轮换制），负责小组分工、讨论、汇总。
+2. 小组工作方式，应合理分工，要留下每个人的工作日志和小组工作总结日志。
+3. 合理评价：根据贡献（参与小组讨论积极性、完成分工工作、提交文档质量、时间等），组长交给助教。
+
+实验内容：
+1. 学生分组继续进行项目沟通调查，对上周的FAR进行修订。
+   项目承接方可做初步的原型与需求方沟通，需求方可进一步提出项目内容补充和调整。
+
+2. CASE（Computer-Aided Software Engineering,计算机辅助软件工程）工具调研及应用
+  小组分工搜索各种主流软件工程技术网站，调研有哪些流行的CASE工具，分析它们的用途、技术特点，写出报告。
+
+  任务：画出书上的甘特图(Gantt chart)
+
+图3-6；UML绘制工具有哪些?
+
+
+CASE工具举例（不限，可以自己搜）：
+Microsoft Visio; Product Studio; Visual SourceSafe；TFS
+Smartdraw，MagicDraw
+Rational Rose
+Sybase PowerDesigner 
+Enterprise Architect
+StarUML， PlantUML
+ModelMake
+Umbrello TOgether
+Poseidon
+UMLStudio
+Visual Paradigm for UML
+Marvel
+CodeLogic
+ArchStudio (Eclipse 插件)
+Junit、MI WinRunner/ LoadRunner
+Apache JMeter
+git
+CVS
+ClearCase
+pyCharm 插件 ，如UML
+
+小组根据调研情况讨论，结合自己的项目和拟使用的技术路线，选择适合的CASE工具设计，补充、完善所做的FAR和SDP。
+
+3. 参照课程网站“教学资料”/“实验”/“参考资料”中的软件设计文档国标、实例和PPT，基于之前的可行性报告FAR，写出该项目的软件开发计划(SDP)初稿
+ 
+4. 继续练习网络协作平台。将小组工作文档、进度等文档都保存到共享平台、或博客上。
+
+5. 小组讨论前三周要点回顾中的思考，给出讨论结果。完成第三章习题 2,3,6。
+
+每个人写出自己的工作报告，组长负责提交改进后的FAR、SDP初稿。
