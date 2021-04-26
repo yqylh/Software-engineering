@@ -1,0 +1,44 @@
+实验题目：实验六 SAD软件体系结构设计（二）
+实验目的：
+  1. 给项目添加提高质量属性的设计  
+  2. 尝试不同的体系结构设计，权衡，评价。
+  3. 继续补充和修改自己项目的SAD。
+  4. 记录项目及小组的工作进度。
+要求：
+1. 每组组长（可轮换制），负责小组分工、讨论、汇总。
+2. 小组工作方式，应合理分工，将小组工作文档、进度等文档都保存到共享平台上。
+3. 合理评价(互评）：根据贡献（参与小组讨论积极性、完成分工工作、提交文档质量、时间等）大小按1-5评分。
+
+实验内容：
+0. 学习、检索课本5.17参考文献及以下推荐的参考书或网上检索新的有关软件体系结构的资料。
+   小组分工，每位成员选择自己关注的部分专题学习并写出学习报告（笔记）。
+    结构之美(beautiful Architecture spinellis)
+    聊架构：洞见架构之道，王概凯
+    Software Architecture in Practice ，3rd Edition
+    Documenting Software Architectures ，2nd，Paul Clements   https://wiki.sei.cmu.edu/sad
+    Software Architecture - Perspectives on an Emerging Discipline
+
+1. 针对本组的SAD，写出为保证项目的质量属性，采取什么策略在自己项目上增加相应的设计？
+    如：可修改性、性能、安全性、可复用性等，请附加证据实例。
+
+2. 参阅课本和网上资料，研究经典软件体系结构案例KWIC。每组分工针对KWIC的几种（不少于四种）不同体系结构设计进行实现，并写出分析报告。
+   https://blog.csdn.net/omnispace/article/details/80224942
+   An Introduction to Software Architecture，4.1节
+   On-the-Criteria-To-Be-Used-in-Decomposing-Systems-into-Modules（Example System 1）
+   http://www.cs.cmu.edu/~ModProb/index.html
+   
+   针对KWIC和自己项目，参考课本ch5 表5-3，小组成员每人给给几种不同的体系结构风格设计打分，评最佳。
+   讨论ch5 P204 习题15
+
+3. 参考课本5.8及补充资料文档化软件体系结构，完善自己项目的体系结构设计文档。
+
+4. SAD评审
+   项目提出组与项目承接组对接（并请局外人参加）成立评审小组（包括一名调解员和记录员）。
+   对项目的SAD的内容进行评审，参照教材5.5, 5.7，5.9中体系结构质量标准进行评审，提出问题和建议，记录员记录不一致问题及解决方案，最后署名，形成SAD评审报告。参见国标“18 - 软件质量保证计划(SQAP).doc”中的附表5和6，可修改合并。
+
+5. 记录项目及小组的最新进度及工作量。
+   记录项目及小组每个人最新的工作的进度、里程碑、工作量的跟踪图或表。逐次递进、更新。
+   每人向组长汇报自己工作。组长汇总进度里程牌，SAD评审报告及本组更新后的SAD、提交小组共同报告。
+
+
+
