@@ -1,0 +1,5 @@
+the first solution decomposes the problem according to the four basic functions performed input shift alphabetize
+and output these computational components are coordinated as subroutines by a main program that sequences through
+them in turn data is communicated between the components through shared storage core storage communication between
+the computational components and the shared data is an unconstrained read write protocol this is made possible by the
+fact that the coordinating program guarantees sequential access to the data

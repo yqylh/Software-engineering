@@ -1,0 +1,5 @@
+dockerOrg：hi-pheonix-lbyqerwsq
+
+docker login -u cn-north-4@EZNQA01AY93D0JNT2EIC -p 6c73194614a0164ca829597cbd7b25a945be83622f457446e4a3c7769fead6c2 swr.cn-north-4.myhuaweicloud.com
+
+dockerServer：swr.cn-north-4.myhuaweicloud.com
